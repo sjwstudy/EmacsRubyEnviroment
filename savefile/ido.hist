@@ -1,0 +1,256 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/srv/note/" . "note-emacs/")
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/packaging/anagram/lib/" . "anagram/")
+ ("/srv/private/private-archive/房子/" . "装修/")
+ ("/srv/private/private-archive/" . "房子/")
+ ("/srv/private/" . "private-archive/")
+ ("/home/sjw/.emacs.d/" . "personal/")
+ ("/home/sjw/" . ".emacs.d/")
+ ("/srv/project/project-webstudy/ruby/PickAxe/" . "code/")
+ ("/srv/" . "project/")
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_containers/" . "word_freq/")
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/" . "metaprogramming/")
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_classes/" . "stock_stats/")
+ ("/usr/share/" . "applications/")
+ ("/" . "srv/")
+ ("/srv/note/note-emacs/ydmes/" . "develop-log/")
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/" . "ch03/")
+ ("/srv/project/project-webstudy/ruby/" . "PickAxe/")
+ ("/srv/note/note-emacs/东阳光工作文档/生产管理系统/" . "合格证/")
+ ("/srv/note/note-emacs/东阳光工作文档/" . "生产管理系统/")
+ ("/srv/project/project-webstudy/" . "ruby/")
+ ("/srv/project/" . "project-webstudy/")
+ ("/srv/note/note-emacs/WEB开发技术/" . "Ruby/")
+ ("/srv/note/note-emacs/" . "东阳光工作文档/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ #("/srv/project/project-webstudy/ruby/PickAxe/code/metaprogramming/" 1 5 (face flx-highlight-face) 5 13 (face flx-highlight-face) 13 30 (face flx-highlight-face) 30 35 (face flx-highlight-face))
+ "/srv/note/note-emacs/ydmes/"
+ "/srv/note/note-emacs/东阳光工作文档/生产管理系统/合格证/"
+ "/srv/note/note-emacs/now/"
+ "/srv/project/project-webstudy/ruby/PickAxe/code/packaging/anagram/"
+ "/srv/project/project-webstudy/ruby/PickAxe/code/packaging/anagram/lib/anagram/"
+ "/srv/project/project-webstudy/ruby/PickAxe/code/packaging/"
+ "/srv/project/project-webstudy/ruby/PickAxe/code/packaging/anagram/bin/"
+ "/srv/project/project-webstudy/ruby/PickAxe/code/packaging/anagram/test/"
+ "/srv/project/project-webstudy/ruby/PickAxe/code/tut_stdtypes/"
+ "/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/bdd/5/"
+ "/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/bdd/4/"
+ "/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/bdd/3/"
+ "/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/bdd/2/"
+ "/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/bdd/1/"
+ "/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/"
+ "/srv/project/project-webstudy/ruby/PickAxe/code/tut_threads/"
+ "/srv/project/project-webstudy/ruby/PickAxe/code/Enum/"
+ "/srv/private/private-archive/房子/装修/"
+ "/srv/project/project-webstudy/ruby/PickAxe/code/tut_classes/stock_stats/"
+ "/srv/project/project-webstudy/ruby/PickAxe/code/tut_modules/"
+ "/srv/project/project-webstudy/ruby/PickAxe/code/tut_containers/"
+ "/srv/project/project-webstudy/ruby/PickAxe/code/tut_containers/word_freq/"
+ "/home/sjw/.emacs.d/personal/"
+ "/home/sjw/.emacs.d/"
+ "/usr/share/applications/"
+ "/srv/project/project-webstudy/ruby/PickAxe/"
+ "/sudo:root@localhost:/usr/share/applications/"
+ "/srv/note/note-emacs/ydmes/develop-log/"
+ "/srv/note/note-emacs/东阳光工作文档/生产管理系统/横偏检测/"
+ "/srv/private/private-note-emacs/"
+ "/srv/project/project-webstudy/Rails/blog/app/controllers/"
+ "/srv/project/project-webstudy/Rails/blog/app/views/comments/"
+ "/srv/project/project-webstudy/Rails/blog/app/views/articles/"
+ "/srv/project/project-webstudy/Rails/blog/config/"
+ "/srv/project/project-webstudy/Rails/blog/app/models/"
+ "/srv/project/project-webstudy/Rails/blog/db/migrate/"
+ "/srv/project/project-webstudy/Rails/blog/app/views/welcome/"
+ "/srv/project/project-webstudy/Rails/blog/app/views/welocme/"
+ "/srv/note/note-emacs/东阳光工作文档/生产管理系统/样品流程改造/"
+ "/srv/project/project-webstudy/ruby/RubyProgramming4th/ch08/"
+ "/srv/project/project-webstudy/ruby/RubyProgramming4th/ch07/"
+ "/srv/project/project-webstudy/ruby/RubyProgramming4th/ch06/"
+ "/srv/project/project-webstudy/ruby/RubyProgramming4th/ch05/"
+ "/srv/project/project-webstudy/ruby/RubyProgramming4th/ch04/"
+ "/srv/project/project-webstudy/ruby/"
+ "/srv/project/project-webstudy/ruby/RubyProgramming4th/ch03/"
+ "/srv/note/note-emacs/东阳光工作文档/生产管理系统/折弯判定标准变更20141010/"
+ "/srv/project/project-webstudy/ruby/RubyProgramming4th/ch02/"
+ "/srv/project/project-webstudy/ruby/RubyProgramming4th/ch01/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "CallMethod.rb"
+ "turtle.rb"
+ "singletons3.rb"
+ "singletons2.rb"
+ "singletons1.rb"
+ "trace_calls_example.rb"
+ "trace_calls.rb"
+ "ClassLevelMacro1.rb"
+ "Outline-2014-11月12月.org"
+ "vanity1.rb"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/sjw/" (21667 26338 975389 432000) ".remmina/" ".dbus/" "Public/" ".bashrc" ".profile" ".smex-items" "Desktop/" "myelpa/" ".local/" ".pam_environment" "goagent-3.1.11-33/" ".putty/" ".profile~" ".gconf/" "eclipse-base-workspace/" ".java/" ".bash_logout" "vie/" ".gvfs/" "Music/" ".subversion/" ".recentf" ".quarry" "notebook/" ".backups/" ".Xauthority" ".thumbnails/" ".irb-history" "Videos/" "Pictures/" ".bash_history" ".erc/" ".ssh/" ".gnome2/" ".bashrc~" ".emacs.d/" ".gphoto/" "flexdock/" "./" "examples.desktop" ".ido.last" ".bash_profile" ".gnome2_private/" ".zlogin" ".config/" ".mysql/" "Command attempted to use minibuffer while in minibuffer" "Documents/" ".gnome/" ".zshrc" ".xinputrc" ".warzone2100-3.1/" ".xsession-errors" ".ICEauthority" ".eteks/" ".rvm/" "Templates/" ".xsession-errors.old" ".dmrc" ".kde/" ".filezilla/" ".gitconfig" ".compiz/" "Downloads/" "goagent-3.1.16/" ".cache/" "temp/" "Mydeb/" "eclipse-cpp-workspace/" ".lesshst" "MySetup/" ".mysql_history" ".gem/" ".pki/" "../" "tmp/")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/metaprogramming/" (21666 24009 519201 433000) "vanity2.rb" "singletons3.rb" "singletons1.rb" "trace_calls.rb" "ref1/" "./" "singletons2.rb" "turtle.rb" "vanity1.rb" "ClassLevelMacro1.rb" "../" "trace_calls_example.rb")
+
+ ("/srv/note/note-emacs/ydmes/" (21662 27685 28491 326000) "weekplan/" "develop-log/" "./" "Outline-2014-11月12月.org" "../")
+
+ ("/srv/note/note-emacs/东阳光工作文档/生产管理系统/合格证/" (21651 63229 490593 86000) "合格证中间样比容自动复制需求12-19.doc" "增加合格证检测数据需求（12-17）.doc" "./" "1.合格证需求分析.org" "合格证跳厚度规格料号标准(12-8改).xls" "合格证跳厚度标准8-11改).xls" "合格证跳测后煮及FE,CL的需求11.15(修改).doc" "../")
+
+ ("/srv/note/note-emacs/东阳光工作文档/生产管理系统/" (21651 63248 768227 682000) "需求确认 （终极版）/" "沟通20140604（宜都董部长关于化成生产项目处理方式）-回复.docx" "检测单完整性检查/" "货架编排/" "沟通20140604（宜都董部长关于化成生产项目处理方式）.doc" "原材料检验/" "./" "7-7化成生产系统二期功能完善.rar" "NCV5监控工具使用手册.doc" "沟通20140606（宜都董部长关于化成生产项目）.docx" "沟通20140605（宜都董部长关于化成生产项目6月份工作计划）.doc" "项目问题收集/" "20140730-files/" "生产线判定/" "合格证/" "6倒箔入库单的优化4-11.doc" "批号编写规则.doc" "折弯判定标准变更20141010/" "发货检查/" "横偏检测/" "项目计划/" "样品流程改造/" "生产系统业务概念.org" "生产系统业务概念.docx" "../")
+
+ ("/srv/note/note-emacs/now/" (21629 6903 638674 399000) "当前待处理事项.org" "足球人员名单.jpg" "./" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/packaging/anagram/bin/" (21641 44683 862296 657000) "anagram" "./" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/packaging/anagram/test/" (21620 30219 93718 219000) "test_finder.rb" "./" "test_options.rb" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/packaging/anagram/lib/anagram/" (21620 30219 93718 219000) "runner.rb" "finder.rb" "options.rb" "./" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/packaging/anagram/lib/" (21620 30219 93718 219000) "anagram/" "./" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/packaging/anagram/" (21620 30219 93718 219000) "LICENSE" "setup.rb" "lib/" "anagram.gemspec" "./" "test/" "bin/" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/packaging/" (21620 30219 93718 219000) "anagram/" "./" "anagram.rb" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_stdtypes/" (21620 30219 105718 218000) "read_songdata_3.rb" "read_songdata_2.rb" "./" "read_songdata_1.rb" "songdata" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/bdd/5/" (21620 30219 113718 218000) "coverage/" "ts_spec.rb" "./" "tennis_scorer.rb" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/bdd/4/" (21620 30219 105718 218000) "ts_spec.rb" "./" "ts_shoulda_1.rb" "ts_shoulda.rb" "tennis_scorer.rb" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/bdd/3/" (21620 30219 105718 218000) "ts_spec.rb" "./" "tennis_scorer.rb" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/bdd/2/" (21620 30219 105718 218000) "ts_spec.rb" "./" "tennis_scorer.rb" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/bdd/1/" (21620 30219 105718 218000) "ts_spec.rb" "./" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/bdd/" (21620 30219 105718 218000) "2/" "4/" "./" "1/" "3/" "5/" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/" (21639 5656 576347 251000) "manual_romanbug.rb" "test_playlist_builder1.rb" "playlist_builder.rb" "test_romanbug2.rb" "test_roman5.rb" "./" "test_romanbug1.rb" "romanbug.rb" "test_roman.rb" "test_playlist_builder2.rb" "roman3.rb" "bdd/" "test_roman3.rb" "test_roman4.rb" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_threads/" (21638 43060 663999 120000) "fiber.rb" "fetcher.rb" "thread5.rb" "./" "thread.rb" "thread3.rb" "thread2.rb" "thread4.rb" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/Enum/" (21637 45278 957080 964000) "lazy_enumerator.rb" "./" "enumerator.rb" "../" "iterator.rb")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/" (21637 24918 351590 712000) "sl_mathn/" "sl_sdbm/" "sl_thread/" "tut_classes/" "win32/" "sl_readline/" "sl_abbrev/" "sl_curses/" "rubyworld/" "trouble/" "sl_rss/" "sl_irb/" "unittesting/" "packaging/" "tut_expressions/" "sl_coverage/" "sl_gserver/" "sl_drb/" "sl_dbm/" "rdoc/" "sl_webrick/" "sl_openssl/" "tut_exceptions/" "sl_rexml/" "sl_csv/" "tut_stdtypes/" "sl_tracer/" "ext_ruby/" "./" "sl_strscan/" "intro/" "sl_thwait/" "ref_c_range/" "sl_fiddle/" "sl_pty/" "sl_socket/" "ducktyping/" "sl_rinda/" "encoding/" "sl_gdbm/" "ref_c_module/" "tut_threads/" "tut_modules/" "tut_regexp/" "sl_tk/" "gettingstarted/" "tut_io/" "sl_ripper/" "metaprogramming/" "sl_testunit/" "web/" "sl_expect/" "sl_win32ole/" "Enum/" "ospace/" "sl_xmlrpc/" "tut_containers/" "irb/" "sl_yaml/" "sl_cgi_session/" "../")
+
+ ("/srv/private/private-archive/房子/装修/" (21636 28012 915125 606000) "home6 -打墙-我的方案.sh3d" "装修材料用量.org" "总图2014.11.28home-我的方案.pdf" "装修合同参考阿亮.docx" "岭南新世界B栋1201房工程-同事介绍老谢.xlsx" "home6 -打墙-老婆修正稿2.sh3d" "home6 -打墙-初稿1.sh3d" "2014.11.12百顺五金美装修报价表.xls" "参考链接" "home6-打墙-ying的方案2 - 副本.sh3d" "终稿/" "home6 -打墙-老婆修正稿4.sh3d" "百顺五金美装修项目图示.jpg" "home-12cn-墙-空房-尺寸修正.sh3d" "家佳美装修报价表-标注1107.xls" "home-12cm-墙-空房.sh3d" "装修图20141128-2.sh3d" "装修图20141128-1.sh3d" "岭南新世界B栋1201房工程-同事介绍老谢.doc" "厅插座位置.jpg" "home6 -打墙-老婆修正稿.sh3d" "装修图20141128-wen.sh3d" "home6-ying的方案1120.sh3d" "./" "百顺五金美装修报价表1107.jpg" "home-23cm-墙-空房.sh3d" "home6-打墙-我的方案2.sh3d" "房间装修-光带.docx" "百顺五金美装修报价表.xls" "2014.12.11修改百顺五金美装修报价表.xls" "home-12cn-墙-空房-尺寸修正2.sh3d" "home-7cm墙-空房.sh3d" "房子装修尺寸参考.org" "房子装修尺寸说明.docx" "home-lp的方案.sh3d" "百顺五金店装修合同2014.11.12.docx" "home-我的方案.sh3d" "2014.11.25home6-打墙-ying的方案2 - 副本.sh3d" "地砖~" "home6 -打墙-老婆修正稿3.sh3d" "../")
+
+ ("/srv/private/private-archive/房子/" (21603 13602 846551 718000) "图片/" "装修/" "./" "../")
+
+ ("/srv/private/private-archive/" (21532 17988 851347 747000) "房子/" "工资条/" "家里热水器/" ".git/" "考驾照/" "个人配置项.xls" "地藏菩萨.jpg" "./" "个人资料/" "个人照片/" "作明佛母/" "我的图片/" "北京资料照片/" "工作居住证/" "地藏经/" "公积金/" "../" "我的看车/")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_modules/" (21620 30219 105718 218000) "moral.rb" "who_am_i.rb" "state_eg.rb" "trig.rb" "gserver-logger.rb" "vowel_finder.rb" "./" "vowel_finder_sum.rb" "observer_impl.rb" "vowel_finder_eg.rb" "pin_head.rb" "observer_impl_eg.rb" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_containers/word_freq/" (21626 43047 493710 249000) "test_words_from_string.rb" "words_from_string.rb" "wordfreq.rb" "test_word_freq.rb" "./" "test_count_frequency.rb" "count_frequency.rb" "ugly_word_count.rb" "../")
+
+ ("/home/sjw/.emacs.d/personal/" (21562 53630 536465 708000) ".gitkeep" "preload/" "./" "custom.el" "../")
+
+ ("/home/sjw/.emacs.d/" (21623 28750 426851 541000) "sample/" "tramp" "elpa/" ".git/" "projectile-bookmarks.eld" "ac-comphist.dat" "utils/" "README.md" "modules/" "themes/" "CONTRIBUTING.md" "personal/" ".gitignore" "./" "savefile/" "prelude-modules.el" "init.el" ".projectile" "%backup%~" "vendor/" "auto-save-list/" "var/" "core/" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_containers/" (21620 30219 105718 218000) "word_freq/" "./" "show.rb" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_classes/stock_stats/" (21623 14641 603324 60000) "book_in_stock_7.rb" "csv_reader.rb" "book_in_stock_4.rb" "book_in_stock_3.rb" "data.csv" "book_in_stock_1a.rb" "book_in_stock_2.rb" "./" "book_in_stock_5.rb" "book_in_stock.rb" "sales_data_feed.rb" "stock_stats.rb" "book_in_stock_8.rb" "book_in_stock_1.rb" "../" "book_in_stock_6.rb")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_classes/" (21620 30219 101718 218000) "stock_stats/" "./" "../")
+
+ ("/srv/project/project-webstudy/ruby/PickAxe/" (21620 30219 85718 219000) "./" "ruby4-code.zip" "code/" "../")
+
+ ("/usr/share/applications/" (21620 28406 273800 532000) "bum.desktop" "remmina.desktop" "gnome-network-panel.desktop" "unity-wacom-panel.desktop" "session-properties.desktop" "JB-java.desktop" "unity-activity-log-manager-panel.desktop" "gnome-system-monitor.desktop" "unitywebappsqmllauncher.desktop" "update-accounts.desktop" "pcmanfm-desktop-pref.desktop" "filezilla.desktop" "baobab.desktop" "apturl.desktop" "debian-xterm.desktop" "warzone2100.desktop" "gnome-screen-panel.desktop" "python2.7.desktop" "mono-runtime-terminal.desktop" "libreoffice-draw.desktop" "nautilus-folder-handler.desktop" "gnome-sound-panel.desktop" "kde4/" "onboard.desktop" "yelp.desktop" "compiz.desktop" "gnome-info-panel.desktop" "JB-controlpanel.desktop" "rhythmbox-device.desktop" "unity-region-panel.desktop" "apport-gtk.desktop" "evince-previewer.desktop" "gnome-user-accounts-panel.desktop" "gnome-universal-access-panel.desktop" "cheese.desktop" "debian-uxterm.desktop" "gnome-terminal.desktop" "gedit.desktop" "unity-control-center.desktop" "mount-archive.desktop" "libreoffice-xsltfilter.desktop" "htop.desktop" "gnome-region-panel.desktop" "unity-mouse-panel.desktop" "orca.desktop" "gnome-disk-image-mounter.desktop" "shotwell.desktop" "unity-screen-panel.desktop" "JB-policytool.desktop" "hplj1020.desktop" "ibus-setup.desktop" "credentials-preferences.desktop" "sweethome3d.desktop" "mono-runtime-common.desktop" "nautilus.desktop" "eclipse-cpp.desktop" "libreoffice-impress.desktop" "empathy.desktop" "ubuntu-amazon-default.desktop" "eclipse.desktop" "sol.desktop" "fcitx-configtool.desktop" "landscape-client-settings.desktop" "gnome-sudoku.desktop" "bamf-2.index" "deja-dup.desktop" "emacs24.desktop" "pcmanfm.desktop" "update-manager.desktop" "unity-lens-photos.desktop" "gnome-contacts.desktop" "gnomine.desktop" "libreoffice-calc.desktop" "file-roller.desktop" "bluetooth-sendto.desktop" "unity-credentials-panel.desktop" "onboard-settings.desktop" "unity-scope-gdrive.desktop" "gnome-background-panel.desktop" "gnome-bluetooth-panel.desktop" "unity-deja-dup-panel.desktop" "gnome-font-viewer.desktop" "unity-color-panel.desktop" "seahorse.desktop" "ubuntu-software-center.desktop" "unity-bluetooth-panel.desktop" "software-properties-gnome.desktop" "fcitx-skin-installer.desktop" "gnome-user-share-properties.desktop" "gnome-system-monitor-kde.desktop" "ibus-setup-libbopomofo.desktop" "gitg.desktop" "mysql-workbench.desktop" "gnome-disk-image-writer.desktop" "evince.desktop" "gkbd-keyboard-display.desktop" "mahjongg.desktop" "ibus-setup-bopomofo.desktop" "defaults.list" "ibus-setup-libpinyin.desktop" "ibus-setup-pinyin.desktop" "eog.desktop" "nautilus-autorun-software.desktop" "gnome-keyboard-panel.desktop" "nautilus-connect-server.desktop" "libreoffice-math.desktop" "system-config-printer.desktop" "brasero.desktop" "evolution-data-server-uoa.desktop" "bluetooth-wizard.desktop" "gufw.desktop" "usb-creator-gtk.desktop" "gnome-deja-dup-panel.desktop" "JB-jconsole.desktop" "webbrowser-app.desktop" "unity-info-panel.desktop" "signon-ui-browser-process.desktop" "nautilus-classic.desktop" "gnome-activity-log-manager-panel.desktop" "unity-datetime-panel.desktop" "deja-dup-preferences.desktop" "gnome-wacom-panel.desktop" "gnome-power-panel.desktop" "fcitx-config-gtk3.desktop" "unity-appearance-panel.desktop" "fcitx.desktop" "grhino.desktop" "gcalctool.desktop" "gcr-prompter.desktop" "libreoffice-writer.desktop" "software-properties-gtk.desktop" "gnome-display-panel.desktop" "totem.desktop" "unity-network-panel.desktop" "meld.desktop" "unity-keyboard-panel.desktop" "JB-mission-control.desktop" "gnome-disks.desktop" "unity-user-accounts-panel.desktop" "brasero-nautilus.desktop" "simple-scan.desktop" "language-selector.desktop" "gnome-datetime-panel.desktop" "vino-preferences.desktop" "gnugo.desktop" "JB-jvisualvm.desktop" "nm-connection-editor.desktop" "JB-javaws.desktop" "mimeinfo.cache" "unity-universal-access-panel.desktop" "unity-power-panel.desktop" "gnome-screenshot.desktop" "gcr-viewer.desktop" "gnome-printers-panel.desktop" "nm-applet.desktop" "gnome-online-accounts-panel.desktop" "vlc.desktop" "gucharmap.desktop" "rhythmbox.desktop" "gnome-color-panel.desktop" "geany.desktop" "chromium-browser.desktop" "gnome-system-log.desktop" "gnome-power-statistics.desktop" "activity-log-manager.desktop" "unity-sound-panel.desktop" "shotwell-viewer.desktop" "quarry.desktop" "unity-display-panel.desktop" "thunderbird.desktop" "nautilus-home.desktop" "im-config.desktop" "xdiagnose.desktop" "sqliteman.desktop" "checkbox-gui.desktop" "gnome-mouse-panel.desktop" "libreoffice-startcenter.desktop" "gnome-control-center.desktop" "software-properties-drivers.desktop" "transmission-gtk.desktop" "python3.4.desktop" "../" "./")
+
+ ("/usr/share/" (21608 16165 751833 10000) "xgreeters/" "media-player-info/" "doc-base/" "xdiagnose/" "unity/" "totem/" "adduser/" "vim/" "mobile-broadband-provider-info/" "ufw/" "gnome/" "zenity/" "games/" "recovery-mode/" "SweetHome3D/" "compizconfig/" "apturl/" "shotwell/" "gnome-mahjongg/" "libgnomekbd/" "libthai/" "libwacom/" "xul-ext/" "qtdeclarative5-ubuntu-ui-extras-browser-plugin/" "help/" "eog/" "pixmaps/" "tomcat7-docs/" "ubuntu-release-upgrader/" "X11/" "gnome-sudoku/" "color/" "lintian/" "aspell/" "libreoffice/" "language-support/" "gtk-doc/" "mime/" "seahorse/" "gitg/" "gnome-video-effects/" "file-roller/" "snmp/" "oneconf/" "aisleriot/" "libtimezonemap/" "gcr-3/" "apt-xapian-index/" "colord/" "telepathy/" "libgweather/" "kde4/" "libtool/" "soprano/" "activity-log-manager/" "fcitx/" "maven-repo/" "hyphen/" "autoconf/" "lightdm/" "enchant/" "grhino/" "debhelper/" "sphinx-voxforge-en/" "java-wrappers/" "sqliteman/" "gnome-settings-daemon/" "terminfo/" "qt4/" "samba/" "libgphoto2/" "ibus-googlepinyin/" "apps/" "evolution-data-server/" "sgml/" "meld/" "nux/" "tabset/" "gnome-system-monitor/" "farstream/" "gnupg/" "ibus-pinyin/" "ppd/" "2013.com.canonical.certification:plainbox-resources/" "ubuntu-drivers-common/" "unity-scopes/" "doc/" "strigi/" "gedit/" "locales/" "gnome-user-share/" "libsensors4/" "gvfs/" "url-dispatcher/" "gnome-2.0/" "locale/" "geoclue-providers/" "cups/" "mono-2.0/" "menu/" "man/" "apache2/" "tomcat7-root/" "tomcat7-examples/" "vino/" "m17n/" "groff/" "nano/" "themes/" "emacs/" "ca-certificates/" "bum/" "branding/" "session-migration/" "onboard/" "cogl/" "appdata/" "nm-applet/" "dpkg/" "console-setup/" "initramfs-tools/" "grub/" "git-core/" "keyrings/" "update-notifier/" "geany/" "im-config/" "app-install/" "xsessions/" "GConf/" "i18n/" "accounts/" "sounds/" "idl/" "python3-plainbox/" "iptables/" "rhythmbox/" "alsa/" "GeoIP/" "ImageMagick-6.7.7/" "unattended-upgrades/" "ghostscript/" "cmake-2.8/" "pygtk/" "gconf/" "python/" "libvirtodbc0/" "example-content/" "indicators/" "backgrounds/" "unity-webapps/" "grub-gfxpayload-lists/" "zeitgeist/" "debconf/" "omf-langpack/" "friends/" "hwdata/" "intltool-debian/" "gstreamer-1.0/" "acpi-support/" "mozilla/" "gettext/" "applications/" "automake-1.14/" "gufw/" "rsyslog/" "dict/" "gstreamer-0.10/" "consoletrans/" "mousetweaks/" "hal/" "dh-python/" "libaudio2/" "libc-bin/" "sgml-base/" "fop/" "gutenprint/" "emacs24/" "hardening-includes/" "clang/" "nautilus-sendto/" "pkgconfig/" "readline/" "sgml-data/" "command-not-found/" "nautilus/" "locale-langpack/" "webkitgtk-3.0/" "thumbnailers/" "pcmanfm/" "package-data-downloads/" "mythes/" "pkg-config-crosswrapper" "misc/" "guile/" "dictionaries-common/" "ubufox/" "aclocal-1.14/" "cmake/" "llvm-3.4/" "hunspell/" "man-db/" "gnome-disk-utility/" "checkbox-gui/" "yelp/" "perl5/" "pam/" "cli-common/" "directfb-1.2.10/" "unity-settings-daemon/" "hplip/" "ssl-cert/" "deja-dup/" "libfm/" "plainbox-providers-1/" "transmission/" "gnome-shell/" "compiz/" "gnome-background-properties/" "brasero/" "zoneinfo/" "adium/" "simple-scan/" "usb-creator/" "xml-core/" "mono/" "python-apt/" "cheese/" "avahi/" "foo2qpdl/" "help-langpack/" "libvisual-plugins-0.4/" "apport/" "djvu/" "ibus-sunpinyin/" "libexttextcat/" "dbus-1/" "unity-control-center/" "accountsservice/" "pam-configs/" "sysv-rc/" "ccsm/" "desktop-directories/" "libnm-gtk/" "binfmts/" "xml/" "icons/" "ontology/" "gitweb/" "gnome-vpn-properties/" "base-files/" "tomcat7/" "popularity-contest/" "mime-info/" "mysql-workbench/" "upstart/" "gnome-session/" "webbrowser-app/" "metacity/" "yelp-xsl/" "unity-lens-friends/" "liblouis/" "gnome-terminal/" "evince/" "gnome-mines/" "liblangtag/" "speech-dispatcher/" "unity-greeter/" "columbus1/" "gst-plugins-base/" "autostart/" "software-properties/" "myspell/" "tomcat7-admin/" "mysql/" "ppp/" "indicator-application/" "perl/" "debianutils/" "purple/" "common-licenses/" "fonts/" "empathy/" "foo2zjs/" "ibus-table/" "libparse-debianchangelog-perl/" "vlc/" "gtksourceview-2.0/" "application-registry/" "pnm2ppa/" "bug/" "bash-completion/" "software-center/" "java/" "gnome-bluetooth/" "libdbi-perl/" "p11-kit/" "quarry/" "info/" "alsa-base/" "emoticons/" "python3/" "build-essential/" "qtchooser/" "os-prober/" "vte/" "file/" "gnome-control-center/" "usb_modeswitch/" "pyshared/" "filezilla/" "base-passwd/" "linux-sound-base/" "update-manager/" "polkit-1/" "poppler/" "system-config-printer/" "chromium-browser/" "language-selector/" "brltty/" "language-tools/" "orca/" "gdm/" "ibus/" "nautilus-share/" "gdb/" "2013.com.canonical.certification:checkbox/" "calendar/" "gtk-engines/" "gtksourceview-3.0/" "omf/" "apt/" "dotnet/" "aclocal/" "tcltk/" "mimelnk/" "insserv/" "glib-2.0/" "pyzy/" "notify-osd/" "ibus-libpinyin/" "gnome-online-accounts/" "pulseaudio/" "consolefonts/" "../" "./")
+
+ ("/srv/project/project-webstudy/ruby/" (21620 29563 933747 967000) "helloruby.rb" "PickAxe/" "【代码清单】Ruby基础教程（第4版）.rar" "./" "RubyProgramming4th/" "ri20min.rb" "../")
+
+ ("/usr/" (21462 42158 399603 513000) "games/" "src/" "local/" "lib/" "./" "include/" "bin/" "sbin/" "share/" "../")
+
+ ("/srv/note/note-emacs/ydmes/develop-log/" (21603 13584 446551 190000) "环境.org" "横偏检测开发记录.org" "20140815.org" "20140821.org" "mqc-doc-lnk/" "./" "20141022.org" "../")
+
+ ("/srv/note/note-emacs/东阳光工作文档/生产管理系统/横偏检测/" (21605 42330 868829 82000) ".~lock.2.横偏检测单需求11-6.doc#" "横偏检测单子表格式 .xls" "./" "3.方案设计及安排.xls" "横偏检测单需求9-20.doc" ".~lock.3.方案设计及安排.xls#" "2.横偏检测单需求11-6.doc" "1.横偏检测需求分析.org" "../")
+
+ ("/srv/note/note-emacs/东阳光工作文档/" (21603 13584 470551 191000) "设备管理系统/" "新项目/" "NC资金项目/" "开发管理/" "./" "电子商务/" "NC应用开发框架/" "日常工作事项/" "铝业研究院化成实验数据管理/" "业务员租房管理/" "项目管理/" "精箔厂系统/" "统一用户认证/" "分销系统/" "生产管理系统/" "工作规划/" "../")
+
+ ("/srv/private/private-note-emacs/" (21603 13611 786551 974000) ".git/" "Laptop.org" "./" "WebsiteAccount.org" "Personal.org" "HomeComputer.org" "Phone.org" "../")
+
+ ("/srv/project/project-webstudy/Rails/blog/app/controllers/" (21601 3692 966564 794000) "welcome_controller.rb" "concerns/" "./" "comments_controller.rb" "application_controller.rb" "articles_controller.rb" "../")
+
+ ("/srv/project/project-webstudy/Rails/blog/app/models/" (21601 3879 722561 105000) "article.rb" "concerns/" ".keep" "./" "comment.rb" "../")
+
+ ("/srv/project/project-webstudy/Rails/blog/app/views/comments/" (21601 3297 522572 605000) "_comment.html.erb" "./" "../")
+
+ ("/srv/project/project-webstudy/Rails/blog/app/views/articles/" (21601 3328 434571 995000) "edit.html.erb" "index.html.erb" "_form.html.erb" "./" "new.html.erb" "show.html.erb" "../")
+
+ ("/srv/project/project-webstudy/Rails/blog/app/views/" (21601 2221 370593 862000) "welcome/" "articles/" "./" "comments/" "layouts/" "../")
+
+ ("/srv/project/project-webstudy/Rails/blog/db/" (21601 1516 174607 791000) "seeds.rb" "migrate/" "development.sqlite3" "./" "schema.rb" "../")
+
+ ("/srv/project/project-webstudy/Rails/blog/db/migrate/" (21601 1400 750610 71000) "./" "20141106151030_create_articles.rb" "20141110183536_create_comments.rb" "../")
+
+ ("/srv/private/" (21401 5620 64172 189000) "./" "private-note-emacs/" "private-archive/" "private-note-onenote/" "../")
+
+ ("/srv/project/project-webstudy/Rails/blog/app/views/welcome/" (21595 42116 145907 999000) "index.html.erb" "./" "../")
+
+ ("/srv/project/project-webstudy/Rails/blog/config/" (21595 30489 134013 966000) "environment.rb" "locales/" "./" "environments/" "initializers/" "boot.rb" "routes.rb" "database.yml" "secrets.yml" "application.rb" "../")
+
+ ("/srv/project/project-webstudy/Rails/blog/app/views/welocme/" (21594 19853 274950 178000) "index.html.erb" "./" "../")
+
+ ("/srv/project/project-webstudy/Rails/blog/app/" (21594 9892 951040 955000) "mailers/" "models/" "./" "helpers/" "assets/" "controllers/" "views/" "../")
+
+ ("/srv/project/project-webstudy/Rails/blog/" (21594 16523 30980 530000) "Rakefile" "db/" "Gemfile.lock" "lib/" "Gemfile~" ".gitignore" "config.ru" "./" "test/" "bin/" "public/" "README.rdoc" "app/" "vendor/" "config/" "Gemfile" "log/" "../" "tmp/")
+
+ ("/srv/project/project-webstudy/Rails/" (21594 9892 943040 955000) "./" "blog/" "../")
+
+ ("/srv/project/project-webstudy/" (21594 9804 487041 761000) "ruby/" ".git/" "HTMLCSS/" "Groovy/" "JQuery/" "LearningJQuery/" "./" "Rails/" "hfhtml5/" "../")
+
+ ("/home/" (21414 19164 323384 376000) "sjw/" "letgo/" "./" "ccoder/" "../")
+
+ ("/srv/note/note-emacs/东阳光工作文档/生产管理系统/样品流程改造/" (21570 10749 848140 278000) "2013年06月版本/" "样品流程改造.doc" "./" "1.样品流程改造需求分析.org" "样品生产要求通知单模板.xls" "样品制作流转卡模板.xls" "2014年03月19日版本/" "../")
+
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch08/" (21573 19612 569727 760000) "8.10 hello_module.rb" "8.13 http_get.rb" "8.2 hello_class(部分）.rb" "8.6 point.rb" "ring_array_.rb" "8.11 mixin_test.rb" "8.9 mixin_sample.rb" "./" "8.12 fetch_and_downcase.rb" "point_.rb" "ext_string_.rb" "8.5 acc_test.rb" "8.4 hello_count.rb" "8.3 hello_class(部分）.rb" "8.1 hello_class.rb" "hello_class_.rb" "8.7 ext_string.rb" "Class_ClassObject.rb" "8.8 ring_array.rb" "../")
+
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch07/" (21566 44548 957225 555000) "7.1 times_with_param.rb" "parameter1.rb" "my_loop.rb" "./" "parameter2.rb" "7.2 hello_with_name.rb" "method1.rb" "method2.rb" "parameter3.rb" "7.3 hello_with_default.rb" "7.4 myloop.rb" "../")
+
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch06/" (21566 36097 684065 80000) "6.12 each.rb" "6.13 break_next_redo.rb" "times1.rb" "6.5 for_names.rb" "6.15 strip.rb" "for2.rb" "each1.rb" "6.9 until.rb" "6.3 times3.rb" "for1.rb" "while1.rb" "6.10 while_not.rb" "6.8 while3.rb" "./" "6.4 for.rb" "6.17 stripped_fact.rb" "while2_.rb" "6.1 times.rb" "each2.rb" "6.6 while.rb" "6.11 each_names.rb" "6.14 ten_lines_grep.rb" "6.2 times2.rb" "6.16 fact.rb" "6.7 while2.rb" ".DS_Store" "../")
+
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch05/" (21565 22302 72894 649000) "5.5 case_class.rb" "case2.rb" "5.2 if_elsif.rb" "if_else_.rb" "5.4 case.rb" "case1.rb" "5.3 unless.rb" "afile" "./" "case3.rb" "case4.rb" "5.1 ad2heisei.rb" ".DS_Store" "../")
+
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch04/" (21565 18843 444995 773000) "4.2 sub.rb" "sub_.rb" "4.1 scopetest.rb" "./" "scopetest_.rb" "../")
+
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch03/" (21565 11477 881211 130000) "my_grep.rb" "3.4 read_text.rb" "3.6 read_text_oneline.rb" "3.3 arg_arith.rb" "grep.rb" "./" "3.7 read_line.rb" "3.11 use_grep.rb" "use_date.rb" "3.8 simple_grep.rb" "3.2 happy_birth.rb" "3.10 grep.rb" "3.5 read_text_simple.rb" "3.1 print_argv.rb" "use_grep_.rb" "ChangeLog" "../" "3.9 hello_ruby2.rb" "【专栏】p_and_pp.rb")
+
+ ("/usr/share/info/emacs-24/" (21372 2261 163127 911000) "ada-mode.info.gz" "calc.info.gz" "bovine.info.gz" "gnus.info.gz" "htmlfontify.info.gz" "rcirc.info.gz" "cl.info.gz" "emacs.info.gz" "org.info.gz" "dired-x.info.gz" "erc.info.gz" "url.info.gz" "sieve.info.gz" "emacs-gnutls.info.gz" "nxml-mode.info.gz" "ediff.info.gz" "ert.info.gz" "srecode.info.gz" "idlwave.info.gz" "forms.info.gz" "eudc.info.gz" "eshell.info.gz" "efaq.info.gz" "speedbar.info.gz" "viper.info.gz" "sasl.info.gz" "semantic.info.gz" "./" "reftex.info.gz" "edt.info.gz" "dbus.info.gz" "smtpmail.info.gz" "message.info.gz" "woman.info.gz" "info.info.gz" "ses.info.gz" "eieio.info.gz" "mh-e.info.gz" "newsticker.info.gz" "auth.info.gz" "ede.info.gz" "wisent.info.gz" "eintr.info.gz" "ebrowse.info.gz" "tramp.info.gz" "pgg.info.gz" "remember.info.gz" "flymake.info.gz" "epa.info.gz" "pcl-cvs.info.gz" "emacs-mime.info.gz" "vip.info.gz" "autotype.info.gz" "elisp.info.gz" "sc.info.gz" "mairix-el.info.gz" "ccmode.info.gz" "widget.info.gz" "../")
+
+ ("/srv/note/note-emacs/东阳光工作文档/生产管理系统/折弯判定标准变更20141010/" (21561 23317 807179 114000) "代加工箔折弯判定标准10-10.xls" "代加工D1101、D1102、D1103、D1104客户折弯判定更改需求.doc" "./" "需求方案分析.org" "../")
+
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch02/" (21563 62396 847599 300000) "./" "print_hayasi.rb" "array1.rb" "../")
+
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/" (21563 61546 687610 663000) "ch15/" "ch05/" "ch04/" "ch01/" "ch11/" "ch16/" "ch08/" "ch21/" "ch07/" "ch22/" "./" "ch06/" "ch19/" "ch03/" "ch02/" "ch09/" "ch10/" "ch23/" "ch18/" "ch17/" "../" "ch13/")
+
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch01/" (21563 56803 455674 59000) "1.6 bigger_smaller.rb" "iterator1.rb" "1.4 area_volume.rb" "./" "1.3 kiritsubo.rb" "1.5 comment_sample.rb" "1.2 put_and_p.rb" "1.1 helloruby.rb" "../")
+
+ ("/srv/project/" (21439 24168 759283 478000) "project-j2eestudy/" "project-mvnstudy/" "project-UnixProgramming/" "./" "project-ufnc/" "project-webstudy/" "../")
+
+ ("/srv/note/note-emacs/emacsnote/" (21562 3003 174323 837000) "201410.org" "./" "../")
+
+ ("/srv/note/note-emacs/WEB开发技术/Ruby/" (21559 37004 776519 307000) "StudyRoad.org" "./" "../")
+
+ ("/srv/note/note-emacs/WEB开发技术/" (21558 39785 996695 290000) "Ruby/" "HTML5/" "前端技术/" "./" "杂文/" "技术路线/" "../")
+
+ ("/srv/note/note-emacs/" (21561 56611 521981 678000) ".git/" "now/" "J2EE主流架构技术/" "Centos/" "DestopComputer.org" "个人笔记本/" "Unix开发技术/" "东阳光工作文档/" "./" "emacsnote/" "WEB开发技术/" "App&DataBaseEnv.org" "DygAccount.org" "ydmes/" "Ubuntu/" "DygIntroduction.org" "手机操作系统/" "读书心得/" "../")
+
+ ("/srv/note/" (21401 4640 560189 450000) "./" "note-emacs/" "note-evernote/" "note-onenote/" "../")
+
+ ("/srv/" (21562 43284 988648 21000) "technology/" "project/" "Enviroment/" "private/" "./" "note/" "book/" "work/" "../")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

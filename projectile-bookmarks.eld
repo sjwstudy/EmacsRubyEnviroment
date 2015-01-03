@@ -1,1 +1,1 @@
-("~/.emacs.d/")
+("/srv/project/project-webstudy/" "/srv/note/note-emacs/" "/srv/private/private-archive/" "~/.emacs.d/" "/srv/private/private-note-emacs/")

@@ -1,16 +1,18 @@
 
 ;; ----- smex-history -----
 (
+ rename-file
  package-list-packages
+ terminal-emulator
  cd
  5x5
  ack
  arp
- dbx
- dig
 )
 
 ;; ----- smex-data -----
 (
- (package-list-packages . 3)
+ (package-list-packages . 4)
+ (terminal-emulator . 1)
+ (rename-file . 2)
 )

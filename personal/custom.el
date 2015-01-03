@@ -66,5 +66,9 @@
 ;; Tags table file
 ;; (setq tags-table-list '("~/UnixProgramming/CStudy/TAGS"))
 
+;;; use rvm to manage ruby versions within emacs
+(require 'rvm)
+(rvm-use-default) ;; use rvm's default ruby for the current Emacs session
+
 (provide 'custom)
 ;;; custom.el ends here

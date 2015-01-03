@@ -1,9 +1,10 @@
 ;;; -*- coding: utf-8 -*-
 (("/home/sjw/.emacs.d/README.md" . 4636)
- ("/home/sjw/.emacs.d/elpa/archives/gnu/archive-contents" . 15155)
- ("/home/sjw/.emacs.d/elpa/archives/melpa/archive-contents" . 317540)
+ ("/home/sjw/.emacs.d/elpa/archives/gnu/archive-contents" . 15755)
+ ("/home/sjw/.emacs.d/elpa/archives/melpa/archive-contents" . 335445)
  ("/home/sjw/.emacs.d/elpa/auto-complete-20140824.1658/auto-complete-autoloads.el" . 1716)
  ("/home/sjw/.emacs.d/elpa/company-20141009.2209/company-autoloads.el" . 8879)
+ ("/home/sjw/.emacs.d/elpa/csv-mode-1.2/csv-mode-autoloads.el" . 2198)
  ("/home/sjw/.emacs.d/elpa/flx-20140921.739/flx-autoloads.el" . 171)
  ("/home/sjw/.emacs.d/elpa/flx-ido-20140821.2033/flx-ido-autoloads.el" . 583)
  ("/home/sjw/.emacs.d/elpa/geiser-20141006.1147/geiser-autoloads.el" . 3151)
@@ -17,7 +18,251 @@
  ("/home/sjw/.emacs.d/elpa/popup-20141002.320/popup-autoloads.el" . 176)
  ("/home/sjw/.emacs.d/elpa/rainbow-delimiters-20141007.809/rainbow-delimiters-autoloads.el" . 854)
  ("/home/sjw/.emacs.d/elpa/ruby-tools-20140113.45/ruby-tools-autoloads.el" . 449)
+ ("/home/sjw/.emacs.d/elpa/rvm-20140601.458/rvm-autoloads.el" . 923)
  ("/home/sjw/.emacs.d/elpa/smex-20140425.1314/smex-autoloads.el" . 563)
+ ("/home/sjw/.emacs.d/elpa/yaml-mode-20140824.2132/yaml-mode-autoloads.el" . 613)
  ("/home/sjw/.emacs.d/elpa/yari-20140206.611/yari-autoloads.el" . 519)
  ("/home/sjw/.emacs.d/elpa/yasnippet-20141008.2316/yasnippet-autoloads.el" . 1493)
- ("/home/sjw/.emacs.d/savefile/recentf" . 248))
+ ("/home/sjw/.emacs.d/init.el" . 3736)
+ ("/home/sjw/.emacs.d/personal/custom.el" . 2276)
+ ("/home/sjw/.emacs.d/savefile/ido.hist" . 31442)
+ ("/home/sjw/.emacs.d/savefile/recentf" . 20161)
+ (#("/srv/note/note-emacs/now/当前待处理事项.org" 1 5
+    (face flx-highlight-face)
+    5 10
+    (face flx-highlight-face)
+    10 21
+    (face flx-highlight-face)
+    21 25
+    (face flx-highlight-face))
+  . 399)
+ (#("/srv/note/note-emacs/ydmes/Outline-2014-11月12月.org" 21 27
+    (face flx-highlight-face))
+  . 1079)
+ (#("/srv/note/note-emacs/ydmes/develop-log/环境.org" 21 27
+    (face flx-highlight-face))
+  . 796)
+ ("/srv/note/note-emacs/东阳光工作文档/生产管理系统/合格证/1.合格证需求分析.org" . 776)
+ ("/srv/note/note-emacs/东阳光工作文档/生产管理系统/折弯判定标准变更20141010/需求方案分析.org" . 36)
+ ("/srv/note/note-emacs/东阳光工作文档/生产管理系统/样品流程改造/1.样品流程改造需求分析.org" . 17)
+ ("/srv/note/note-emacs/东阳光工作文档/生产管理系统/横偏检测/1.横偏检测需求分析.org" . 2184)
+ (#("/srv/private/private-note-emacs/WebsiteAccount.org" 1 5
+    (face flx-highlight-face)
+    5 13
+    (face flx-highlight-face)
+    13 32
+    (face flx-highlight-face))
+  . 6253)
+ (#("/srv/project/project-webstudy/Rails/blog/app/controllers/articles_controller.rb" 45 57
+    (face flx-highlight-face))
+  . 138)
+ (#("/srv/project/project-webstudy/Rails/blog/app/controllers/comments_controller.rb" 45 57
+    (face flx-highlight-face))
+  . 128)
+ ("/srv/project/project-webstudy/Rails/blog/app/models/article.rb" . 56)
+ ("/srv/project/project-webstudy/Rails/blog/app/views/articles/_form.html.erb" . 376)
+ ("/srv/project/project-webstudy/Rails/blog/app/views/articles/edit.html.erb" . 44)
+ ("/srv/project/project-webstudy/Rails/blog/app/views/articles/index.html.erb" . 385)
+ (#("/srv/project/project-webstudy/Rails/blog/app/views/articles/new.html.erb" 45 51
+    (face flx-highlight-face)
+    51 60
+    (face flx-highlight-face))
+  . 43)
+ (#("/srv/project/project-webstudy/Rails/blog/app/views/articles/show.html.erb" 45 51
+    (face flx-highlight-face)
+    51 60
+    (face flx-highlight-face))
+  . 137)
+ (#("/srv/project/project-webstudy/Rails/blog/app/views/comments/_comment.html.erb" 51 60
+    (face flx-highlight-face))
+  . 280)
+ (#("/srv/project/project-webstudy/Rails/blog/app/views/comments/_form.html.erb" 51 60
+    (face flx-highlight-face))
+  . 256)
+ (#("/srv/project/project-webstudy/Rails/blog/config/routes.rb" 41 48
+    (face flx-highlight-face))
+  . 329)
+ (#("/srv/project/project-webstudy/ruby/PickAxe/code/Enum/enumerator.rb" 1 5
+    (face flx-highlight-face)
+    5 13
+    (face flx-highlight-face)
+    13 30
+    (face flx-highlight-face)
+    30 35
+    (face flx-highlight-face))
+  . 500)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/Enum/iterator.rb" . 260)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/Enum/lazy_enumerator.rb" . 497)
+ (#("/srv/project/project-webstudy/ruby/PickAxe/code/metaprogramming/CallMethod.rb" 1 5
+    (face flx-highlight-face)
+    5 13
+    (face flx-highlight-face)
+    13 30
+    (face flx-highlight-face)
+    30 35
+    (face flx-highlight-face))
+  . 251)
+ (#("/srv/project/project-webstudy/ruby/PickAxe/code/metaprogramming/ClassLevelMacro1.rb" 1 5
+    (face flx-highlight-face)
+    5 13
+    (face flx-highlight-face)
+    13 30
+    (face flx-highlight-face)
+    30 35
+    (face flx-highlight-face)
+    43 48
+    (face flx-highlight-face))
+  . 605)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/metaprogramming/singletons1.rb" . 150)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/metaprogramming/singletons2.rb" . 70)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/metaprogramming/singletons3.rb" . 156)
+ (#("/srv/project/project-webstudy/ruby/PickAxe/code/metaprogramming/trace_calls.rb" 1 5
+    (face flx-highlight-face)
+    5 13
+    (face flx-highlight-face)
+    13 30
+    (face flx-highlight-face)
+    30 35
+    (face flx-highlight-face))
+  . 856)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/metaprogramming/trace_calls_example.rb" . 232)
+ (#("/srv/project/project-webstudy/ruby/PickAxe/code/metaprogramming/turtle.rb" 1 5
+    (face flx-highlight-face)
+    5 13
+    (face flx-highlight-face)
+    13 30
+    (face flx-highlight-face)
+    30 35
+    (face flx-highlight-face))
+  . 1572)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/packaging/anagram.rb" . 946)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/packaging/anagram/anagram.gemspec" . 204)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/packaging/anagram/lib/anagram/finder.rb" . 792)
+ (#("/srv/project/project-webstudy/ruby/PickAxe/code/packaging/anagram/lib/anagram/options.rb" 1 5
+    (face flx-highlight-face)
+    5 13
+    (face flx-highlight-face)
+    13 30
+    (face flx-highlight-face)
+    30 35
+    (face flx-highlight-face)
+    58 66
+    (face flx-highlight-face)
+    66 70
+    (face flx-highlight-face))
+  . 689)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/packaging/anagram/setup.rb" . 36305)
+ (#("/srv/project/project-webstudy/ruby/PickAxe/code/packaging/anagram/test/test_options.rb" 66 71
+    (face flx-highlight-face))
+  . 483)
+ (#("/srv/project/project-webstudy/ruby/PickAxe/code/tut_classes/stock_stats/book_in_stock.rb" 1 5
+    (face flx-highlight-face)
+    5 13
+    (face flx-highlight-face)
+    13 30
+    (face flx-highlight-face)
+    30 35
+    (face flx-highlight-face)
+    48 60
+    (face flx-highlight-face))
+  . 531)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_classes/stock_stats/csv_reader.rb" . 900)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_classes/stock_stats/stock_stats.rb" . 627)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_containers/word_freq/test_words_from_string.rb" . 1049)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_containers/word_freq/wordfreq.rb" . 660)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_stdtypes/read_songdata_1.rb" . 585)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_threads/fiber.rb" . 118)
+ (#("/srv/project/project-webstudy/ruby/PickAxe/code/tut_threads/thread.rb" 1 5
+    (face flx-highlight-face)
+    5 13
+    (face flx-highlight-face)
+    13 30
+    (face flx-highlight-face)
+    30 35
+    (face flx-highlight-face))
+  . 197)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_threads/thread2.rb" . 178)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_threads/thread3.rb" . 279)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_threads/thread4.rb" . 34)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_threads/thread5.rb" . 262)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/tut_threads/thread6.rb" . 130)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/bdd/2/ts_spec.rb" . 739)
+ (#("/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/bdd/3/tennis_scorer.rb" 64 66
+    (face flx-highlight-face))
+  . 403)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/bdd/3/ts_spec.rb" . 583)
+ (#("/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/bdd/4/tennis_scorer.rb" 64 66
+    (face flx-highlight-face))
+  . 566)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/bdd/4/ts_shoulda.rb" . 595)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/bdd/4/ts_shoulda_1.rb" . 1262)
+ (#("/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/bdd/4/ts_spec.rb" 64 66
+    (face flx-highlight-face))
+  . 1018)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/playlist_builder.rb" . 251)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/roman3.rb" . 778)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/romanbug.rb" . 1017)
+ ("/srv/project/project-webstudy/ruby/PickAxe/code/unittesting/test_playlist_builder1.rb" . 536)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch01/iterator1.rb" . 2)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch02/array1.rb" . 79)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch02/hash1.rb" . 125)
+ (#("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch02/print_hayasi.rb" 54 59
+    (face flx-highlight-face))
+  . 25)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch03/ChangeLog" . 332796)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch03/grep.rb" . 155)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch03/my_grep.rb" . 95)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch03/use_date.rb" . 73)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch03/use_grep_.rb" . 93)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch04/scopetest_.rb" . 30)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch05/afile" . 89)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch05/case1.rb" . 188)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch05/case2.rb" . 22)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch05/case3.rb" . 183)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch05/case4.rb" . 61)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch05/equal_eql.rb" . 227)
+ (#("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch05/if_else_.rb" 54 59
+    (face flx-highlight-face))
+  . 175)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch06/each1.rb" . 65)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch06/each2.rb" . 91)
+ (#("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch06/times1.rb" 1 5
+    (face flx-highlight-face)
+    5 13
+    (face flx-highlight-face)
+    13 30
+    (face flx-highlight-face)
+    30 35
+    (face flx-highlight-face)
+    54 59
+    (face flx-highlight-face))
+  . 57)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch06/while1.rb" . 72)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch06/while2_.rb" . 90)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch07/method1.rb" . 92)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch07/method2.rb" . 93)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch07/my_loop.rb" . 133)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch07/parameter1.rb" . 80)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch07/parameter2.rb" . 147)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch07/parameter3.rb" . 104)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch08/Class_ClassObject.rb" . 237)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch08/hello_class_.rb" . 380)
+ ("/srv/project/project-webstudy/ruby/RubyProgramming4th/ch08/mix_in_.rb" . 133)
+ (#("/srv/project/project-webstudy/ruby/helloruby.rb" 1 5
+    (face flx-highlight-face)
+    5 13
+    (face flx-highlight-face)
+    30 35
+    (face flx-highlight-face))
+  . 176)
+ ("/sudo:root@localhost:/usr/share/applications/mysweethome3d.desktop" . 517)
+ (#("/sudo:root@localhost:/usr/share/applications/sweethome3d.desktop" 22 26
+    (face flx-highlight-face)
+    26 32
+    (face flx-highlight-face))
+  . 354)
+ (#("/usr/share/applications/sweethome3d.desktop" 1 5
+    (face flx-highlight-face)
+    5 11
+    (face flx-highlight-face))
+  . 517))
